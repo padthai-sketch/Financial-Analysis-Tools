@@ -1,4 +1,4 @@
-## Financial Planning (Assignment)
+## Financial Analysis Tools
 
 Focusing on using APIs as part of the technical solution and to create two financial analysis tools.
  
